@@ -1,7 +1,7 @@
 ![Gibbs Logo](https://github.com/AgilData/gibbs-mysql-spyglass/blob/gh-pages/images/Gibbs-Spyglass.png)
 # Gibbs MySQL Spyglass
 
-Ahoy Matey! The Gibbs MySQL Spyglass is a application used to capture application traffic into a MySQL database.  It is designed to be a passive snifer accessing the MySQL client protocol.  Spyglass is deployed as part of AgilData's Gibbs MySQL Advisor Service which provides deep performance and shard safe analysis.   
+Ahoy Matey! The Gibbs MySQL Spyglass is a application used to capture application traffic into a MySQL database.  It is designed to be a passive sniffer accessing the MySQL client protocol.  Spyglass is deployed as part of AgilData's Gibbs MySQL Advisor Service which provides deep performance and shard safe analysis.   
 
 Database administrators and developers can use Spyglass to capture application traffic to their MySQL databases and submit the output to the Gibbs MySQL Advisor service for a review and scoring of common performance issues, schema and table strucutres and query optimization. 
 
